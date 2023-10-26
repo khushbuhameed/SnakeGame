@@ -1,6 +1,6 @@
 # SnakeGame
 
-========================
+
 BUILD OUTPUT DESCRIPTION
 ========================
 
